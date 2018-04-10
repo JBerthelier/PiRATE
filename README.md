@@ -12,7 +12,7 @@ In this context, we designed a new bioinformatics pipeline named PiRATE for dete
 **This PiRATE-Galaxy is a suitable and flexible platform to study TEs in the genome of every organisms.**
 
 
-PiRATE (a Pipeline to Retrieve and Annotate Transposable Elements) can not be download on Github but on SEANOE (Sea scientific open data publication).  
+PiRATE can not be download on Github but on SEANOE (Sea scientific open data publication).  
 
 Each tools used by PiRATE are automated into a stand-alone Galaxy. This PiRATE-Galaxy can be used through a Virtual Machine.
 
