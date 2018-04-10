@@ -33,7 +33,7 @@ http://archimer.ifremer.fr/doc/00412/52373/
 
 ***
 
-PiRATE notably integrate: 
+PiRATE integrates: 
 
  
 **STEP I) TE DETECTION**
