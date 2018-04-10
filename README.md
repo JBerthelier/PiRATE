@@ -1,5 +1,5 @@
 
-**What'is PiRATE (a Pipeline to Retrieve and Annotate Transposable Elements) ?** 
+**What is PiRATE (Pipeline to Retrieve and Annotate Transposable Elements) ?** 
 
 
 ![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
