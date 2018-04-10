@@ -41,7 +41,7 @@ PiRATE integrates:
 **_Approach 1: Similarity-based_**
 
   - RepeatMasker www.repeatmasker.org/ (Smit et al. 1996)
-  - TE-HMMER
+  - TE-HMMER ( in PiRATE )
 
 **_Approach 2: Structural-based_**
 
@@ -70,6 +70,6 @@ PiRATE integrates:
  
 **STEP III) TE annotation**
 
-  - TEannot https://urgi.versailles.inra.fr/Tools/REPET
+  - TEannot https://urgi.versailles.inra.fr/Tools/REPET (Flutre et al., 2011)
 
 ***
