@@ -69,7 +69,7 @@ PiRATE integrates:
   - PASTEC https://urgi.versailles.inra.fr/Tools/PASTEClassifier (Hoede et al., 2014)
 
  
-**STEP III) TE annotation**
+**STEP III) TE Annotation**
 
   - TEannot https://urgi.versailles.inra.fr/Tools/REPET (Flutre et al., 2011)
 
