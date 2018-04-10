@@ -37,7 +37,7 @@ http://archimer.ifremer.fr/doc/00412/52373/
 PiRATE integrates: 
 
  
-**STEP I) TE DETECTION**
+**STEP I) TE Detection**
 
 **_Approach 1: Similarity-based_**
 
