@@ -1,6 +1,8 @@
 
 **What'is PiRATE (a Pipeline to Retrieve and Annotate Transposable Elements) ?** 
-                   ![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
+
+
+![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
 
 
 To date, genome assembly of non-model organisms is usually not at chromosomal level and is higly fragmented. This fragmentation is recognized to be, in part, the result of a bad assembly of the transposable elements (TEs) copies, increasing the difficulty to detect and annotate them.
