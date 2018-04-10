@@ -9,7 +9,7 @@ To date, genome assembly of non-model organisms is usually not at chromosomal le
 
 In this context, we designed a new bioinformatics pipeline named PiRATE for detect, classify and annotate TEs of non-model organisms. We optimized its detection step by gathering every existing TE detection approaches. The goal is to promote the detection of complete TE sequences of every TE families. The detection of complete TE sequences, bearing recognizable conserved domains or specific motifs, allows to facilitate the classification step. The classification step of PiRATE has been improved for algal genomes.
 
-This PiRATE-Galaxy is a suitable and flexible platform to study TEs in the genome of every organisms.
+**This PiRATE-Galaxy is a suitable and flexible platform to study TEs in the genome of every organisms.**
 
 
 PiRATE (a Pipeline to Retrieve and Annotate Transposable Elements) can not be download on Github but on SEANOE (Sea scientific open data publication).  
