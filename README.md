@@ -6,7 +6,10 @@ https://doi.org/10.1186/s12864-018-4763-1
 
 
 
-**What is PiRATE (Pipeline to Retrieve and Annotate Transposable Elements) ?** 
+
+
+
+***What is PiRATE (Pipeline to Retrieve and Annotate Transposable Elements) ?*** 
 
 
 ![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
