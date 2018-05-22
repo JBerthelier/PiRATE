@@ -1,3 +1,10 @@
+***Paper of PiRATE is online !!!***
+
+The paper related on PiRATE is online on BMC Genomics !
+
+https://doi.org/10.1186/s12864-018-4763-1
+
+
 
 **What is PiRATE (Pipeline to Retrieve and Annotate Transposable Elements) ?** 
 
