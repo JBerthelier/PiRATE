@@ -1,6 +1,6 @@
 ***Paper of PiRATE is online !!!***
 
-The paper is online on BMC Genomics !
+The paper is online on BMC Genomics :
 
 https://doi.org/10.1186/s12864-018-4763-1
 
