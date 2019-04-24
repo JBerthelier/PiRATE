@@ -1,3 +1,16 @@
+/!\ Be carreful /!\
+
+There is a mistaque in the instruction of TEannot:
+
+The requested size of the genome is not in Mb but in bp.
+
+--> the correct instruction is : "Genome size (example: 85,000,000 pb)"
+
+This will be corrected in PiRATE v2.
+
+
+________________________________________________________
+
 The PiRATE paper is online on BMC Genomics :
 
 https://doi.org/10.1186/s12864-018-4763-1
