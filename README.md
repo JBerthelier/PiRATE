@@ -1,6 +1,6 @@
 /!\ Be carreful /!\
 
-There is a mistaque in the instruction of TEannot:
+There is a mistake in the instruction of TEannot:
 
 The requested size of the genome is not in Mb but in bp.
 
