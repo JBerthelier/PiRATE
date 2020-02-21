@@ -1,4 +1,4 @@
-***/!\ Be carreful /!\ ***
+**/!\ Be carreful /!\**
 
 There is a mistake in the instruction of the "TEannot" panel of PiRATE:
 
