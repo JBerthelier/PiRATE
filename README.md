@@ -57,7 +57,7 @@ http://archimer.ifremer.fr/doc/00412/52373/
 
 PiRATE integrates several tools that are automated in a Galaxy, however, you need to launch each tool one by one, and some steps need to be performed manually. 
 PiRATE is compose of a detection, a classification and an annotation step. 
-12 tools are availables for the detection steps, you can use all or some of them, according to your need or your data. 
+12 tools are availables for the detection step, you can use all or some of them, according to your need or your data. 
 
 **STEP I) TE Detection**
 
