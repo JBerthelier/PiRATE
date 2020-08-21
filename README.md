@@ -31,7 +31,7 @@ Each tools used by the PiRATE pipeline are automated into a stand-alone Galaxy. 
 
 **This PiRATE-Galaxy is a suitable and flexible platform to study TEs in the genome of every organisms.**
 
-However, be aware that PiRATE have been mainly design for organisms that have relative small genome assembly, it has been created/controled using A. thaliana genome assembly (120Mb).
+However, be aware that PiRATE has been designed for organisms that have relative small genome assembly, it has been created/controled using A. thaliana genome assembly (120Mb).
 You need a powerful machine if you want to use it with larger genome assembly and you need to properly setup the amount of Rams/cores in the virtualbox and in the virtual machine. 
 Please check : https://github.com/JBerthelier/PiRATE/issues/29 
 
@@ -57,7 +57,8 @@ http://archimer.ifremer.fr/doc/00412/52373/
 
 PiRATE integrates several tools that are automated in a Galaxy, however, you need to launch each tool one by one, and some steps need to be performed manually. 
 PiRATE is compose of a detection, a classification and an annotation step. 
-12 tools are availables for the detection step, you can use all or some of them, according to your need or your data. 
+12 tools are availables for the detection step, you can use all or some of them, according to your need or your data.
+For example, some papers only used the REPET tools. 
 
 **STEP I) TE Detection**
 
