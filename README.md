@@ -30,12 +30,15 @@ In this context, we designed a new bioinformatics pipeline named PiRATE to detec
 Each tools used by the PiRATE pipeline are automated into a stand-alone Galaxy. This PiRATE-Galaxy can be used through a Virtual Machine (PiRATE-VM).
 
 **This PiRATE-Galaxy is a suitable and flexible platform to study TEs in the genome of every organisms.**
+However, be aware that PiRATE have been mainly design for organism with relative small genome size, it has been created/controled using A.thaliana genome (120Mb).
+You need a powerful machine if you want to use it with larger genome size and you need to properly setup the amount of Rams/cores in the virtualbox and in the virtual machine. 
+Please check:
 
 The PiRATE Virtual Machine can not be download on Github but on SEANOE (Sea scientific open data publication): 
 
 http://doi.org/10.17882/51795
 
-You only have to download the Virtual Machine and to run it with a Virtual Machine Monitor such as VirtualBox:
+You have to download the Virtual Machine and to run it with a Virtual Machine Monitor such as VirtualBox:
 
 https://www.virtualbox.org/
 
