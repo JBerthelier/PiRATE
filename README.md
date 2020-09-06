@@ -6,7 +6,7 @@ https://doi.org/10.1186/s12864-018-4763-1
 
 ***What is PiRATE-Galaxy?*** 
 
-PiRATE-Galaxy is a platform which integrates bioinformatic tools dedicated to transposable elements analayses.
+PiRATE-Galaxy is a web-based platform which integrates bioinformatic tools dedicated to transposable elements analayses.
 
 Thoses tools are automated into a stand alone Galaxy https://galaxyproject.org/use/pirate/ and installed in a Linux Virtual Machine (download link below).
 
