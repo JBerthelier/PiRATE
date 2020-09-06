@@ -4,7 +4,7 @@ The PiRATE paper is online on BMC Genomics :
 https://doi.org/10.1186/s12864-018-4763-1
 
 
-***What is PiRATE-Galaxy ?*** 
+***What is PiRATE-Galaxy?*** 
 
 PiRATE-Galaxy is a platform which integrates bioinformatic tools dedicated to transposable elements analayses.
 
@@ -70,7 +70,7 @@ Keep in mind that, full PiRATE Pipeline workflow is not "one-click" automated an
 
 ![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
 
-***What is the goal of PiRATE (Pipeline to Retrieve and Annotate Transposable Elements) ?***
+***What is the goal of PiRATE (Pipeline to Retrieve and Annotate Transposable Elements)?***
 
 To date, genome assembly of non-model organisms is usually not at chromosomal level and are highly fragmented. This fragmentation is recognized to be, in part, the result of a bad assembly of the transposable elements (TEs) copies, increasing the difficulty to detect and annotate them.
 
