@@ -14,18 +14,15 @@ You can use all tools in order to complet the full PiRATE Pipeline or use some o
 
 Keep in mind that, the full PiRATE pipeline is not "one-click" automated and that you will need to launch each tool one after one, and for some steps, it is required to be perform manual curation (e.i. TE library curation).
 
+***
 
 **Galaxy-PiRATE web-based platform overview**
-
-***
 
 ![](https://github.com/JBerthelier/PiRATE/blob/master/pirate-galaxy.PNG?raw=true)
 
 ***
 
 **PiRATE full pipeline overview** 
-
-***
 
 ![](https://github.com/JBerthelier/PiRATE/blob/master/PiRATE_Pipeline_Figure.png?raw=true)
 
@@ -67,7 +64,7 @@ Keep in mind that, the full PiRATE pipeline is not "one-click" automated and tha
 
   - TEannot https://urgi.versailles.inra.fr/Tools/REPET (Flutre et al., 2011)
 
-
+***
 
 ![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
 
@@ -84,13 +81,17 @@ Each tools used by the PiRATE pipeline are automated into a stand-alone Galaxy. 
 However, be aware that PiRATE has been designed for organisms that have relative small genome assembly, it has been created/controled using A. thaliana genome assembly (120Mb).
 You need a powerful machine if you want to use it with a larger genome assembly and you need to properly setup the amount of rams/cores in the setting of virtualbox and in the virtual machine (Please check : https://github.com/JBerthelier/PiRATE/issues/29)
 
-***Where got the PiRATE VM (Virtual Machine)***
+***
+
+***Where to download the PiRATE VM (Virtual Machine)***
+
+Pirate-Galaxy is installed on a Virtual Machine:
 
 The PiRATE Virtual Machine can not be download on Github but on SEANOE (Sea scientific open data publication): 
 
 http://doi.org/10.17882/51795
 
-You have to download the Virtual Machine and to run it with a Virtual Machine Monitor such as VirtualBox:
+You have to download the Virtual Machine (17 Go) and to run it with a Virtual Machine Monitor such as VirtualBox:
 
 https://www.virtualbox.org/
 
@@ -101,7 +102,7 @@ http://archimer.ifremer.fr/doc/00412/52373/
 
 ***
 
-Projects that used PiRATE-Galaxy VM :
+Projects that used PiRATE:
 
 - Amphibians (Ichthyophis bannanicus) genome https://www.biorxiv.org/content/10.1101/2020.08.19.257527v1.abstract
 - Almond and peach genomes https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14538
