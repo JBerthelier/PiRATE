@@ -18,7 +18,7 @@ Keep in mind that, the pipeline is not fully automated and that you will need to
 
 ***
 
-![](https://github.com/JBerthelier/PiRATE/blob/master/PiRATE_Pipeline_Figure.png?raw=true)
+![](https://github.com/JBerthelier/PiRATE/blob/master/pirate-galaxy.PNG?raw=true)
 
 ***
 
