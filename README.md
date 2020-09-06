@@ -99,7 +99,7 @@ http://archimer.ifremer.fr/doc/00412/52373/
 
 ***
 
-Projects that used PiRATE-Galaxy VM, it has been used for insect, fungus, microalgae, amphibian and Trypanosomatida :
+Projects that used PiRATE-Galaxy VM :
 
 - Amphibians (Ichthyophis bannanicus) genome https://www.biorxiv.org/content/10.1101/2020.08.19.257527v1.abstract
 - Almond and peach genomes https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14538
