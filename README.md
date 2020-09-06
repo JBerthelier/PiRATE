@@ -14,7 +14,7 @@ PiRATE-Galaxy combines 14 tools allowing the detection, classification and annot
 
 You can use all tools in order to performed the full PiRATE pipeline workflow, or use only some tools regarding to your available input data, or your goals.
 
-Keep in mind that the full PiRATE pipeline workflow (Fig. 2) is not "one-click" automated and that you will must to launch each tool one after one. For some steps, it is required to be perform manual curation (e.i. TE library curation).
+Keep in mind that the full PiRATE pipeline workflow (Fig. 2) is not "one-click" automated and that you will must run each tool one after one. For some steps, it is required to be perform manual curation (e.i. TE library curation).
 
 ***
 
