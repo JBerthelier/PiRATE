@@ -4,14 +4,15 @@ The PiRATE paper is online on BMC Genomics :
 https://doi.org/10.1186/s12864-018-4763-1
 
 
-***What is PiRATE (Pipeline to Retrieve and Annotate Transposable Elements) ?*** 
+***What is PiRATE-Galaxy ?*** 
 
-PiRATE is a stand-alone Galaxy web-based platform which integrates several bioinformatic tools that are automated (https://galaxyproject.org/use/pirate/).
-It combine tools allowing the detection, classification and annotation of Transposable Elements from a genome assembly and/or short reads sequencing data.
+PiRATE-Galaxy is a platform which integrates several bioinformatic tools that are automated into a stand alone Galaxy https://galaxyproject.org/use/pirate/ and installed in a Linux Virtual Machine (download link below).
 
-You can use all tools in order to complet the full PiRATE Pipeline or use some of them, regarding to your available data and goal.
+PiRATE-Galaxy combines tools allowing the detection, classification and annotation of Transposable Elements from a genome assembly and/or short reads sequencing data (e.i. Illumina).
 
-Keep in mind that, the pipeline is not fully automated and that you will need to launch each tool one by one, and for some steps, it is required to be perform manual curation (e.i. TE library curation).
+You can use all tools in order to complet the full PiRATE Pipeline or use some of them, regarding to your available data and goals.
+
+Keep in mind that, the full PiRATE pipeline is not "one-click" automated and that you will need to launch each tool one after one, and for some steps, it is required to be perform manual curation (e.i. TE library curation).
 
 
 **Galaxy-PiRATE web-based platform overview**
@@ -66,12 +67,11 @@ Keep in mind that, the pipeline is not fully automated and that you will need to
 
   - TEannot https://urgi.versailles.inra.fr/Tools/REPET (Flutre et al., 2011)
 
-PiRATE is compose of a detection, a classification and an annotation step. 
-12 tools are availables for the detection step, you can use all or some of them, according to your need or your data.
-For example, some papers only used the REPET tools. 
+
 
 ![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
 
+***What is the goal of PiRATE (Pipeline to Retrieve and Annotate Transposable Elements) ?***
 
 To date, genome assembly of non-model organisms is usually not at chromosomal level and are highly fragmented. This fragmentation is recognized to be, in part, the result of a bad assembly of the transposable elements (TEs) copies, increasing the difficulty to detect and annotate them.
 
@@ -83,6 +83,8 @@ Each tools used by the PiRATE pipeline are automated into a stand-alone Galaxy. 
 
 However, be aware that PiRATE has been designed for organisms that have relative small genome assembly, it has been created/controled using A. thaliana genome assembly (120Mb).
 You need a powerful machine if you want to use it with a larger genome assembly and you need to properly setup the amount of rams/cores in the setting of virtualbox and in the virtual machine (Please check : https://github.com/JBerthelier/PiRATE/issues/29)
+
+***Where got the PiRATE VM (Virtual Machine)***
 
 The PiRATE Virtual Machine can not be download on Github but on SEANOE (Sea scientific open data publication): 
 
