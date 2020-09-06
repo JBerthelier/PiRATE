@@ -12,9 +12,9 @@ Thoses tools are automated into a stand alone Galaxy https://galaxyproject.org/u
 
 PiRATE-Galaxy combines 14 tools allowing the detection, classification and annotation of Transposable Elements from a genome assembly and/or short reads sequencing data (e.i. Illumina).
 
-You can use all tools in order to complet the full PiRATE Pipeline or use some of them, regarding to your available data and goals.
+You can use all tools in order to the full PiRATE Pipeline workflow or use some of them, regarding to your available data and goals.
 
-Keep in mind that, the full PiRATE pipeline is not "one-click" automated and that you will need to launch each tool one after one, and for some steps, it is required to be perform manual curation (e.i. TE library curation).
+Keep in mind that, full PiRATE Pipeline workflow is not "one-click" automated and that you will must to launch each tool one after one. For some steps, it is required to be perform manual curation (e.i. TE library curation).
 
 ***
 
