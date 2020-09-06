@@ -8,23 +8,23 @@ https://doi.org/10.1186/s12864-018-4763-1
 
 PiRATE-Galaxy is a web-based platform which integrates bioinformatic tools dedicated to transposable elements analayses.
 
-Thoses tools are automated into a stand alone Galaxy https://galaxyproject.org/use/pirate/ and installed in a Linux Virtual Machine (download link below).
+Thoses tools are automated into a stand alone Galaxy https://galaxyproject.org/use/pirate/ and installed in a Linux Virtual Machine (Fig. 1) (download link below).
 
-PiRATE-Galaxy combines 14 tools allowing the detection, classification and annotation of Transposable Elements from a genome assembly and/or short reads sequencing data (e.i. Illumina).
+PiRATE-Galaxy combines 14 tools allowing the detection, classification and annotation of Transposable Elements from a genome assembly and/or short reads sequencing data (e.i. Illumina) (Fig. 1).
 
-You can use all tools in order to performed the full PiRATE Pipeline workflow, or use only some tools regarding to your available data or your goals.
+You can use all tools in order to performed the full PiRATE pipeline workflow, or use only some tools regarding to your available input data, or your goals.
 
-Keep in mind that, full PiRATE Pipeline workflow is not "one-click" automated and that you will must to launch each tool one after one. For some steps, it is required to be perform manual curation (e.i. TE library curation).
+Keep in mind that the full PiRATE pipeline workflow (Fig. 2) is not "one-click" automated and that you will must to launch each tool one after one. For some steps, it is required to be perform manual curation (e.i. TE library curation).
 
 ***
 
-**Galaxy-PiRATE web-based platform overview**
+**Fig. 1: Galaxy-PiRATE web-based platform overview**
 
 ![](https://github.com/JBerthelier/PiRATE/blob/master/pirate-galaxy.PNG?raw=true)
 
 ***
 
-**PiRATE full pipeline overview** 
+**Fig 2: Full PiRATE pipeline workflow pipeline overview** 
 
 ![](https://github.com/JBerthelier/PiRATE/blob/master/PiRATE_Pipeline_Figure.png?raw=true)
 
