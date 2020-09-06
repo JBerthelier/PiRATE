@@ -1,20 +1,7 @@
-**- /!\ Be carreful /!\ -**
-
-There is a mistake in the instruction of the "TEannot" panel of PiRATE:
-
-The requested size of the genome is not in Mb but in bp.
-
---> the correct instruction is : "Genome size (example: 85,000,000 pb)"
-
-This will be corrected in PiRATE v2.
-
-
-________________________________________________________
 
 The PiRATE paper is online on BMC Genomics :
 
 https://doi.org/10.1186/s12864-018-4763-1
-
 
 
 ***What is PiRATE (Pipeline to Retrieve and Annotate Transposable Elements) ?*** 
@@ -32,8 +19,7 @@ Each tools used by the PiRATE pipeline are automated into a stand-alone Galaxy. 
 **This PiRATE-Galaxy is a suitable and flexible platform to study TEs in the genome of every organisms.**
 
 However, be aware that PiRATE has been designed for organisms that have relative small genome assembly, it has been created/controled using A. thaliana genome assembly (120Mb).
-You need a powerful machine if you want to use it with larger genome assembly and you need to properly setup the amount of Rams/cores in the virtualbox and in the virtual machine. 
-Please check : https://github.com/JBerthelier/PiRATE/issues/29 
+You need a powerful machine if you want to use it with a larger genome assembly and you need to properly setup the amount of rams/cores in the setting of virtualbox and in the virtual machine (Please check : https://github.com/JBerthelier/PiRATE/issues/29)
 
 The PiRATE Virtual Machine can not be download on Github but on SEANOE (Sea scientific open data publication): 
 
@@ -97,3 +83,14 @@ For example, some papers only used the REPET tools.
   - TEannot https://urgi.versailles.inra.fr/Tools/REPET (Flutre et al., 2011)
 
 ***
+
+Projects that used PiRATE-Galaxy VM, it has been used for insect, fungus, microalgae, amphibian and Trypanosomatida :
+
+- Amphibians (Ichthyophis bannanicus) genome https://www.biorxiv.org/content/10.1101/2020.08.19.257527v1.abstract
+- Almond and peach genomes https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.14538
+- Sugarcane mitochondrial genome https://peerj.com/articles/7558/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD
+- Trypanosoma and Leishmania genome https://link.springer.com/article/10.1186/s13100-019-0175-2#Abs1
+- Botrytis fabae (Fungus) genome https://www.frontiersin.org/articles/10.3389/fmicb.2020.00217/full
+- Ascochyta rabiei (Fungus) genome https://www.g3journal.org/content/10/7/2131.abstract
+- Bactrocera oleae (Olive fruit fly) genome https://link.springer.com/content/pdf/10.1186/s12864-020-6672-3.pdf
+- Tisochrysis lutea genome (microalgae) https://doi.org/10.1186/s12864-018-4763-1
