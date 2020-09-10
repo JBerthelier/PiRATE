@@ -5,6 +5,7 @@ https://doi.org/10.1186/s12864-018-4763-1
 
 ***
 ![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
+
 ***Where to download the PiRATE VM (Virtual Machine)***
 
 Pirate-Galaxy is installed on a Virtual Machine:
