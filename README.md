@@ -3,7 +3,8 @@ The PiRATE paper is online on BMC Genomics :
 
 https://doi.org/10.1186/s12864-018-4763-1
 
-
+***
+![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
 ***Where to download the PiRATE VM (Virtual Machine)***
 
 Pirate-Galaxy is installed on a Virtual Machine:
@@ -86,8 +87,6 @@ Keep in mind that the full PiRATE pipeline workflow (Fig. 2) is not "one-click" 
   - TEannot https://urgi.versailles.inra.fr/Tools/REPET (Flutre et al., 2011)
 
 ***
-
-![](http://www.seanoe.org/data/00406/51795/thumbnail.gif)
 
 ***What is the goal of PiRATE (Pipeline to Retrieve and Annotate Transposable Elements)?***
 
