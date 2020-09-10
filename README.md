@@ -14,7 +14,7 @@ The PiRATE Virtual Machine can not be download on Github but on SEANOE (Sea scie
 
 http://doi.org/10.17882/51795
 
-You have to download the Virtual Machine (17 Go) and to run it with a sofware such as VirtualBox (Virtual Machine Monitor) , it works on Linux, Windows, MacOS :
+You have to download the Virtual Machine (17 Go) and to run it with a software such as VirtualBox (Virtual Machine Monitor) , it works on Linux, Windows, MacOS :
 
 https://www.virtualbox.org/
 
