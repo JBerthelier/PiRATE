@@ -4,6 +4,25 @@ The PiRATE paper is online on BMC Genomics :
 https://doi.org/10.1186/s12864-018-4763-1
 
 
+***Where to download the PiRATE VM (Virtual Machine)***
+
+Pirate-Galaxy is installed on a Virtual Machine:
+
+The PiRATE Virtual Machine can not be download on Github but on SEANOE (Sea scientific open data publication): 
+
+http://doi.org/10.17882/51795
+
+You have to download the Virtual Machine (17 Go) and to run it with a Virtual Machine Monitor such as VirtualBox:
+
+https://www.virtualbox.org/
+
+The PiRATE tutorial is available here:
+
+http://archimer.ifremer.fr/doc/00412/52373/
+
+
+***
+
 ***What is PiRATE-Galaxy?*** 
 
 PiRATE-Galaxy is a web-based platform which integrates bioinformatic tools dedicated to transposable elements analayses.
@@ -82,25 +101,6 @@ Each tools used by the PiRATE pipeline are automated into a stand-alone Galaxy. 
 
 However, be aware that PiRATE has been designed for organisms that have relative small genome assembly, it has been created/controled using A. thaliana genome assembly (120Mb).
 You need a powerful machine if you want to use it with a larger genome assembly and you need to properly setup the amount of rams/cores in the setting of virtualbox and in the virtual machine (Please check : https://github.com/JBerthelier/PiRATE/issues/29)
-
-***
-
-***Where to download the PiRATE VM (Virtual Machine)***
-
-Pirate-Galaxy is installed on a Virtual Machine:
-
-The PiRATE Virtual Machine can not be download on Github but on SEANOE (Sea scientific open data publication): 
-
-http://doi.org/10.17882/51795
-
-You have to download the Virtual Machine (17 Go) and to run it with a Virtual Machine Monitor such as VirtualBox:
-
-https://www.virtualbox.org/
-
-The PiRATE tutorial is available here:
-
-http://archimer.ifremer.fr/doc/00412/52373/
-
 
 ***
 
