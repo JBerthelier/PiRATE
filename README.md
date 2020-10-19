@@ -100,7 +100,7 @@ Each tools used by the PiRATE pipeline are automated into a stand-alone Galaxy. 
 **This PiRATE-Galaxy is a suitable and flexible platform to study TEs in the genome of every organisms.**
 
 However, be aware that PiRATE has been designed for organisms that have relative small genome assembly, it has been created/controled using A. thaliana genome assembly (120Mb).
-You need a powerful machine if you want to use it with a larger genome assembly and you need to properly setup the amount of rams/cores in the setting of virtualbox and in the virtual machine (Please check : https://github.com/JBerthelier/PiRATE/issues/29)
+You need a powerful machine if you want to use it with a larger genome assembly and you have to properly setup the amount of rams/cores in the setting of virtualbox and in the virtual machine (Please check : https://github.com/JBerthelier/PiRATE/issues/29)
 
 ***
 
