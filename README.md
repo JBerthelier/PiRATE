@@ -112,5 +112,6 @@ Projects that used PiRATE:
 - Trypanosoma and Leishmania genome https://link.springer.com/article/10.1186/s13100-019-0175-2#Abs1
 - Botrytis fabae (Fungus) genome https://www.frontiersin.org/articles/10.3389/fmicb.2020.00217/full
 - Ascochyta rabiei (Fungus) genome https://www.g3journal.org/content/10/7/2131.abstract
-- Bactrocera oleae (Olive fruit fly) genome https://link.springer.com/content/pdf/10.1186/s12864-020-6672-3.pdf
-- Tisochrysis lutea genome (microalgae) https://doi.org/10.1186/s12864-018-4763-1
+- Bactrocera oleae (Insect) genome https://link.springer.com/content/pdf/10.1186/s12864-020-6672-3.pdf
+- Helicoverpa armigera (Insect) https://www.mdpi.com/2075-4450/11/12/879
+- Tisochrysis lutea genome (Microalgae) https://doi.org/10.1186/s12864-018-4763-1
