@@ -115,3 +115,5 @@ Projects that used PiRATE:
 - Bactrocera oleae (Insect) genome https://link.springer.com/content/pdf/10.1186/s12864-020-6672-3.pdf
 - Helicoverpa armigera (Insect) https://www.mdpi.com/2075-4450/11/12/879
 - Tisochrysis lutea genome (Microalgae) https://doi.org/10.1186/s12864-018-4763-1
+- Turnera subulata genome (Plant)  https://doi.org/10.3390/plants12020286
+- several Salamanders species  https://www.biorxiv.org/content/10.1101/2024.07.22.604708v1.full
